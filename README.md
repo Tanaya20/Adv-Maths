@@ -1,2 +1,2 @@
-# Adv-Maths
-This is about Advance Maths
+# Disaster
+This is about Disaster Management
